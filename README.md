@@ -15,4 +15,4 @@
   * Textures and Texture Filtering
   * Material System
     * Normal Mapping with Specular Highlights
-    * Reflections and Environment Mapping using CubeMaps
+    * Reflections and Environment Mapping using CubeMaps and Screen-space reflections
