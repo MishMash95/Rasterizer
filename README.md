@@ -1,5 +1,9 @@
 # GPU-Accelerated Software Rasterizer
+
+Checkout a video of the rasterizer here:
 [Video Demonstration](https://www.youtube.com/watch?v=yXUcj-AIQ24)
+
+
 ![alt text](preview.png "Preview")
 ### Features
 * OpenCL GPU Shading
